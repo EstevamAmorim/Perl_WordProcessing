@@ -1,0 +1,5 @@
+Número de sonetos - /\n\n\n\N+\n\N+\n\N+\n\N+\n\n\N+\n\N+\n\N+\n\N+\n\n\N+\n\N+\n\N+\n\n\N+\n\N+\n\N+(\n\n\n\n\n|$)/g
+
+Número de palavras - /\S\s/g
+
+Número de caracteres - /\S/g
